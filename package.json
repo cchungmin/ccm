@@ -1,0 +1,10 @@
+{
+ "scripts": {
+  "start": "node server.js"
+ },
+ "dependencies": {
+  "eslint": "^6.0.1",
+  "koa": "^2.7.0",
+  "react": "^16.8.6"
+ }
+}
